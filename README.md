@@ -31,7 +31,7 @@ Current features:
 
 ## Getting Started
 
-You can either download the source code and experiment with it yourself, or alternatively download a precompiled scene which randomly generates 100 spheres with random surface properties [here](www.website.com).
+You can either download the source code and experiment with it yourself, or alternatively download a precompiled scene which randomly generates 100 spheres with random surface properties [here](https://github.com/BenCKB/Raytracer/releases).
 
 To get the code:
 
