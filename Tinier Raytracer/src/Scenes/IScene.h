@@ -18,9 +18,9 @@ public:
 		return dim;
 	}
 
-	virtual std::vector<std::shared_ptr<BaseObject> > getObjects() { return m_object; }
+	std::vector<std::shared_ptr<BaseObject> > getObjects() { return m_object; }
 
-	virtual std::vector<std::shared_ptr<Light> > getLights() { return m_lights; }
+	std::vector<std::shared_ptr<Light> > getLights() { return m_lights; }
 
 protected:
 	std::vector<std::shared_ptr<BaseObject> > m_object;
